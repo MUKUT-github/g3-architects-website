@@ -238,3 +238,12 @@ nav li a{
         flex-direction: column;
     }
 }
+
+.footer-description{
+    margin-top: 200px;
+    margin-bottom: 216px;
+    text-align: center;
+    padding: 40px;
+    border-radius: 8px;
+    background: #FFF4E7;
+}
